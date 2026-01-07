@@ -75,13 +75,15 @@ I help businesses scale using **custom AI voice agents**, **workflow automation*
 > Add 2–4 projects you want recruiters/clients to see first.
 
 - **RelanxAI Voice Agent Platform** — AI calling, lead qualification, appointment booking  
-  🔗 Link: *(add link)* • 🧠 Stack: *(add stack)*
+  Built an AI-powered voice agent system for inbound & outbound calling, lead qualification, and appointment booking.
+  Designed conversational flows, integrated backend services, and optimized call handling for real-world business use cases.
 
 - **Automation Toolkit** — workflows, integrations, dashboards  
-  🔗 Link: *(add link)* • ⚙️ Stack: *(add stack)*
+  Developed scalable workflow automation, system integrations, and custom dashboards to reduce manual operations and improve business efficiency.
 
 - **ML Playground** — experiments + notebooks (clean, documented)  
-  🔗 Link: *(add link)* • 📌 Focus: *(add focus)*
+  Worked on machine learning experiments and notebooks, covering data preprocessing, model training, and evaluation.
+  Emphasis on clean, well-documented implementations and practical experimentation over theory-heavy demos.
 
 ---
 
