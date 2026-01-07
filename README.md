@@ -72,7 +72,6 @@ I help businesses scale using **custom AI voice agents**, **workflow automation*
 ---
 
 ## 🚀 Featured Work (edit these)
-> Add 2–4 projects you want recruiters/clients to see first.
 
 - **RelanxAI Voice Agent Platform** — AI calling, lead qualification, appointment booking  
   Built an AI-powered voice agent system for inbound & outbound calling, lead qualification, and appointment booking.
@@ -87,14 +86,15 @@ I help businesses scale using **custom AI voice agents**, **workflow automation*
 
 ---
 
-## 📈 GitHub At a Glance
+### 📈 GitHub At a Glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisavalia244&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisavalia244&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhisavalia244&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=abhisavalia244&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisavalia244&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisavalia244&theme=tokyonight&hide_border=true" />
 
 </div>
 
