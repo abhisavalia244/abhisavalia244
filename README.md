@@ -88,14 +88,12 @@ I help businesses scale using **custom AI voice agents**, **workflow automation*
 
 ## 📈 GitHub At a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhisavalia244&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhisavalia244&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhisavalia244&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+- 💻 **Primary Focus:** Backend development, automation, AI systems
+- 🧠 **Current Work:** AI voice agents, workflow automation, ML experiments
+- 🧰 **Tech Strengths:** Python, TypeScript, AWS, Azure, Databases
+- 🚀 **Approach:** Production-first, scalable, real-world solutions
+- 📦 **Repositories:** Mix of client work, internal tools, and experiments
+- 📈 **Activity:** Consistent commits across automation & AI project
 
 ---
 
